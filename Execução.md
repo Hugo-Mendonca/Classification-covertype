@@ -6,7 +6,7 @@ Este projeto apresenta uma investigação sistemática sobre a classificação d
 O projeto foi desenvolvido para ambiente de computação em nuvem. Para reproduzir os resultados:
 
 1. **Acessar o Notebook:**
-   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_O_LINK_DO_SEU_NOTEBOOK_NO_GITHUB](https://colab.research.google.com/drive/1bj3lVoUdZr6nHyp3mNnO6f1x-7F7WtDy?usp=sharing))
+   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bj3lVoUdZr6nHyp3mNnO6f1x-7F7WtDy?usp=sharing)
 
 2. **Instalar Dependências:**
    No ambiente do Colab, a primeira célula instalará automaticamente os pacotes necessários a partir do arquivo de requisitos:
